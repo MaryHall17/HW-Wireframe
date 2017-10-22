@@ -1,0 +1,139 @@
+ * {
+ 	box-sizing: border-box;
+ 	text-align: center;
+ }
+
+ body {
+ 	font-size: 18px;
+ 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ 	line-height: 27px;
+ 	background-color: #777;
+ 	width: 960px;
+ }
+
+ header {
+ 	padding: 20px;
+ 	margin-bottom: 15px;
+ 	margin-left: 10px;
+ 	font-size: 18px;
+ 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ 	line-height: 27px;
+ 	background: #ebebeb;
+ }
+
+ nav {
+ 	padding: 20px;
+ 	margin-bottom: 15px;
+ 	margin-left: 10px;
+ 	font-size: 18px;
+ 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ 	line-height: 27px;
+ 	background: #ebebeb;  
+ }
+
+ section {
+ 	padding: 20px;
+ 	margin-bottom: 20px;
+ 	margin-left: 10px;
+ 	width: 495px;
+ 	background: #ebebeb;
+ 	float: left;
+ 	clear: both;
+ }
+
+ article {
+ 	padding: 10px;
+ 	background: #777;
+ }
+
+.content {
+	text-align: left;
+}
+
+ aside {
+ 	padding: 20px;
+ 	margin-left: 30px;
+ 	background: #ebebeb;
+ 	float: left;
+ }
+
+ footer {
+ 	padding: 20px;
+ 	margin-bottom: 20px;
+ 	margin-left: 10px;
+ 	background: #ebebeb;
+ 	clear: both;
+ }
+
+ a {
+ 	color: green;
+ }
+
+ /**
+ h1, h2, h3 {
+ 		font-family: Arial;
+
+ }
+
+ p, ul, ol {
+
+ 	font-family: Arial;
+ 	font-size: 18px;
+ }
+
+ Body {
+
+ 	Background-color:#777;
+ 	Content:#ebebeb;
+ 	width: 960px;
+ }
+
+ Header {
+ 	border-style: hidden;
+ 	margin: auto;
+ 	background-color: gray;
+ 	padding: 25px 400px;
+ 	font-family: Arial;
+ 	font-size: 28px;
+
+ }
+
+ Nav {
+ 	border-style: hidden;
+ 	margin: auto;
+ 	background-color: gray;
+ 	padding: 25px 400px;
+
+ }
+
+ Footer {
+
+ }
+
+ Section {
+ 	float: left;
+ 	width: 495px;
+ 	border-style: hidden;
+ 	background-color: gray;
+
+ }
+
+ Aside {
+ 	float: left;
+
+ }
+
+ Article {
+ 	border-style: hidden;
+ 	background-color: #777;
+
+ }
+
+ .clear {
+
+ }
+
+ /*Widths of each section should be:
+ 	body: 960px
+ 	section: 495px
+ */
