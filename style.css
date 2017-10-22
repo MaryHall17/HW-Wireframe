@@ -46,15 +46,22 @@
  	background: #777;
  }
 
-.content {
-	text-align: left;
-}
+ h1 {
+ 	padding: 10px;
+ 	background: #ebebeb;
+
+ }
 
  aside {
- 	padding: 20px;
- 	margin-left: 30px;
+ 	padding: 10px 195px 230px 195px;
+ 	margin-left: 20px;
  	background: #ebebeb;
  	float: left;
+ }
+
+ p {
+ 	padding: 10px;
+ 	background: #ebebeb;
  }
 
  footer {
