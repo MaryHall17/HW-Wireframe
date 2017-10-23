@@ -1,2 +1,2 @@
 # HW-Wireframe
-My student bio
+The easier homework.
